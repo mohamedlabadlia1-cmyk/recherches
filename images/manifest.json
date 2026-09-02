@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mohamedlabadlia1-cmyk.github.io/recherches/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in mohamedlabadlia1-cmyk/recherches project"
+        ]
+    },
+    "items": []
+}
